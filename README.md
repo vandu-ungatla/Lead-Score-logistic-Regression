@@ -5,8 +5,8 @@ An education company named X Education sells online courses to industry professi
 
 ### Steps Followed:
 
--Reading Data,
--Cleaning Data,
+* Reading Data,
+* Cleaning Data,
 -EDA,
 -Creating Dummy,
 -Splitting data into train and test set,
